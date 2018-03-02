@@ -1,0 +1,68 @@
+
+/* HOME PAGE */
+.nav-wrapper {
+  background-color: #000000;
+}
+
+.brand-logo {
+  margin-left: 50px;
+  height:100%;
+  text-shadow: 2px 2px black;
+}
+
+#logo {
+  margin-left: 0px;
+}
+
+h3,h5 {
+  text-shadow: 2px 2px black;
+}
+
+/* FOOTER */
+
+.page-footer {
+  background-color: #000000;
+}
+
+/* CHAPTER CARDS */
+.card {
+  width:300px;
+  padding:10px;
+}
+
+.card-title#chapter {
+  font-size: 18px;
+  width:300px;
+  background:black;
+  height:10%;
+  text-align: center;
+  padding-top: 0px;
+}
+
+.card-image {
+  height:250px;
+  width:auto;
+}
+
+/* EVENT CARDS */
+
+.card-title#events {
+  height: 50px;
+  background-color: inherit;
+  width:250px;
+}
+
+/* EXTRA */
+
+.activator {
+  height: 300px;
+}
+
+
+.imgdisplay {
+    float: left;
+    width: 33.33%;
+}
+.thinkTwitFollow {
+    clear: both;
+}
